@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Hi, welcome to the world of Jenkins.......123");
+        System.out.println("Hi, welcome to the world of Jenkins.......0000000");
     }
 
     public String getMessage() {
